@@ -1,2 +1,2 @@
 # JavaScript
-curso udemy de JavaScript
+Curso de JavaScript e TypeScript 
